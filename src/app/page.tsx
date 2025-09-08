@@ -25,7 +25,7 @@ export default function Page() {
                 <div className="w-full flex-1 lg:w-2/3 p-2">
                     <iframe className="rounded-lg"
                             src="https://www3.cbox.ws/box/?boxid=3548947&boxtag=0akyIy" width="100%" height="100%"
-                            allow="autoplay" frameBorder="0" marginHeight="0" marginWidth="0"
+                            allow="autoplay" frameBorder="0"
                             scrolling="auto"></iframe>
                 </div>
             </div>
